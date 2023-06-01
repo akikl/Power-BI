@@ -23,7 +23,6 @@ As an data analyst who has been provided with sample data and a mock-up dashboar
    CSV files is the data source of this project
 
 ## Screenshots: 
-  
         ![Atliq Hospitality Dashboard](https://github.com/akikl/Power-BI/assets/57595385/f51b7d82-b8cc-4b11-b54f-a9cc1f98bc29)
 
 
