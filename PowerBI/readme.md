@@ -17,13 +17,11 @@ To get started with this project, follow these steps:
 
 git clone https://github.com/akikl/Power-BI.git 
 
- 1.Open Power BI Desktop.
- 2.Open the Atliq_Hospitality.pbix file from the repository.
- 3.Power BI will prompt you to connect to the required data sources. Make sure the necessary data sources are available or configure new connections as needed.
- 4.Explore the report, interact with the visualizations, and gain insights into the hospitality industry's KPIs.
 
-
-
+1.Open Power BI Desktop.
+2.Open the Atliq_Hospitality.pbix file from the repository.
+3.Power BI will prompt you to connect to the required data sources. Make sure the necessary data sources are available or configure new connections as needed.
+4.Explore the report, interact with the visualizations, and gain insights into the hospitality industry's KPIs.
 
 
 ## Contibuting
