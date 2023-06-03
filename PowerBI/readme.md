@@ -8,21 +8,30 @@ The Atliq Hospitality Power BI project focuses on analyzing and presenting key p
 
 ## Project Files
 
-- `Atliq_Hospitality.pbix`: This is the Power BI project file that contains the data connections, visualizations, and calculations for the Atliq Hospitality project.
+1. `Atliq_Hospitality.pbix`: This is the Power BI project file that contains the data connections, visualizations, and calculations for the Atliq Hospitality project.
 
 ## Getting Started
 
 To get started with this project, follow these steps:
+
 1. Clone the repository:
 
-git clone https://github.com/akikl/Power-BI.git 
+    ```bash
+    git clone https://github.com/akikl/Power-BI.git
+    ```
 
+2. Open Power BI Desktop.
 
-1.Open Power BI Desktop.
-2.Open the Atliq_Hospitality.pbix file from the repository.
-3.Power BI will prompt you to connect to the required data sources. Make sure the necessary data sources are available or configure new connections as needed.
-4.Explore the report, interact with the visualizations, and gain insights into the hospitality industry's KPIs.
+3. Open the `Atliq_Hospitality.pbix` file from the repository.
 
+4. Power BI will prompt you to connect to the required data sources. Make sure the necessary data sources are available or configure new connections as needed.
 
-## Contibuting
+5. Explore the report, interact with the visualizations, and gain insights into the hospitality industry's KPIs.
+
+## Contributing
+
 Contributions to this project are welcome. If you have any suggestions, improvements, or bug fixes, please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
