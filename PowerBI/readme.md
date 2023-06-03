@@ -9,7 +9,7 @@ The Atliq Hospitality Power BI project focuses on analyzing and presenting key p
 ## Project Files
 
 1. `Atliq_Hospitality.pbix`: This is the Power BI project file that contains the data connections, visualizations, and calculations for the Atliq Hospitality project.
-2. 'datasets': This folder contains the dataset files required for analysis
+2. 'datasets': This folder contains the dataset files required for analysis.
 
 ## Getting Started
 
