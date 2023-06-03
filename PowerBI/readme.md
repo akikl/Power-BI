@@ -15,9 +15,7 @@ The Atliq Hospitality Power BI project focuses on analyzing and presenting key p
 To get started with this project, follow these steps:
 1. Clone the repository:
 
-```bash
-git clone https://github.com/akikl/Power-BI.git
-
+git clone https://github.com/akikl/Power-BI.git 
 
  1.Open Power BI Desktop.
  2.Open the Atliq_Hospitality.pbix file from the repository.
